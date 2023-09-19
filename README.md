@@ -24,8 +24,20 @@ I am a Computer Science student based in Raleigh, NC, and a dedicated single mot
     os: For file and directory operations to organize exported chat histories.
 
 ### Project 2: HTML Showcase
-- Description: Provide a concise description of this project.
-- Technologies Used: List the technologies, programming languages, and tools used.
+- Description: The E-Commerce Web Application is a comprehensive online shopping platform designed to provide a seamless shopping experience for customers while allowing administrators to manage products efficiently. The project's primary goals and outcomes include:
+
+- **Customer Experience:** Create an intuitive and responsive shopping platform where customers can browse, search, and purchase products with ease.
+- **Administrator Control:** Implement role-based access control with various permissions to allow administrators to manage products, orders, and users.
+- **Database Management:** Set up a well-structured database schema to store customer information, product details, orders, and permissions.
+- **Security:** Implement user access control to ensure that only authorized users can perform certain actions, such as adding new products.
+- **Technological Proficiency Showcase:** Demonstrate proficiency in PHP, MySQL, HTML, CSS, JavaScript, and role-based access control (RBAC) implementation.
+- Technologies Used:
+- **PHP:** For server-side scripting.
+- **MySQL:** For the relational database management system.
+- **HTML, CSS, and JavaScript:** For the frontend development.
+- **Bootstrap:** For responsive web design and styling.
+- **Role-Based Access Control (RBAC):** To manage user roles and permissions.
+- **Git and GitHub:** For version control and project collaboration.
 - GitHub Repository: Link to the project's GitHub repository.
 - Demo: If applicable, include a link to a live demo or video demonstration.
 
